@@ -44,7 +44,7 @@ Watch the demo video to see how Industrial IoT Safeguard works in action:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/snehalathaR/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL.git
+    git clone https://github.com/Johnwick-400/CRM_Application_for_a_Wholesale_Rice_Mill
     ```
 2. **Setup Salesforce Environment**:
     - Log in to your Salesforce Developer account.
